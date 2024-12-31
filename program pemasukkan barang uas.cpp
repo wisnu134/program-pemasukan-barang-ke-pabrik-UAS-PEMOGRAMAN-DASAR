@@ -17,7 +17,7 @@ int totalBarang = 0;
 
 
 void inputBarang() {
-    cout << "\n=== INPUT BARANG ===" << endl;
+    cout << "\n======= INI PROGRAM PEMASUKKAN BARANG KE PABRIK`````````` " << endl;
     
   
     cout << "Kode barang   : ";
